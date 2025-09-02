@@ -1,0 +1,7 @@
+# IDE ve cache dosyaları
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
